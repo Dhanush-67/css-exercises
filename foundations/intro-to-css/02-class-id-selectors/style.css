@@ -1,0 +1,18 @@
+.p{
+    background-color: rgb(156, 78, 78);
+    font-family: 'Verdana', "DejaVu Sans", sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#Blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#num{
+    background-color: #559755;
+    font-weight: bold;
+}
